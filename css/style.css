@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 3000px;
+  font-size: 20px;
+}
+
+#calculator{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.calc_box{
+  border: 1px dotted #000;
+  color: #444;
+  padding: 10px;
+  box-sizing: border-box;
+  min-width: 320px;
+  margin: 5px auto;
+}
+.calc_box p{
+  margin-top: 0;
+  font-weight: bold;
+  text-decoration: underline;
+  color: #222;
+}
+
+.result{
+  display: block;
+}
