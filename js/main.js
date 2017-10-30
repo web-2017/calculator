@@ -3,9 +3,7 @@
 let calc = () => {
 
   var sit, chair, armChair, kuhUgolok, sofa, sofa2, sofa3, sofaCorner, coverChair, coverArmchair, coverSofa, coverSofa2, coverSofa3, coverSofaCorner, flok, shenil, velur, jacard, ecoLeather, leather;
-
   var sitLength, chairLength, armChairLength, kuhUgolokLength, sofaLength, sofa2Length, sofa3Length, sofaCornerLength, coverChairLength, coverArmchairLength, coverSofaLength, coverSofa2Length, coverSofa3Length, coverSofaCornerLength, flokLength, shenilLength, velurLength, jacardLength, ecoLeatherLength, leatherLength;
-
   var psit, pchair, parmChair, pkuhUgolok, psofa, psofa2, psofa3, psofaCorner, pcoverChair, pcoverArmchair, pcoverSofa, pcoverSofa2, pcoverSofa3, pcoverSofaCorner, pflok, pshenil, pvelur, pjacard, pecoLeather, pleather;
 
   // id work
